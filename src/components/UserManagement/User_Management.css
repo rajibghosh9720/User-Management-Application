@@ -1,0 +1,18 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.app-title {
+  font-size: 30px;
+}
+
+.add-user-container {
+  margin-bottom: 20px;
+}
